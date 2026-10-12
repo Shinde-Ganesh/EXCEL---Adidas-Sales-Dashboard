@@ -3,6 +3,12 @@ Excel Dashboard from Raw Data for ADIDAS Sales
 
 An analysis of the Adidas Sales Dashboard - USA reveals key highlights across sales trends, retailer performance, regional distribution, and sales channels:
 
+**Dashboard Screenshot**
+
+<img width="917" height="643" alt="Adidas Dashboard" src="https://github.com/user-attachments/assets/4345b467-2d52-4408-80f8-1dacf074febf" />
+
+
+
 **1. Monthly Sales Trend (2020 – 2021)**
    
   2020 Performance: Sales remained relatively stable and lower throughout 2020, hovering between roughly $1.08M and $2.46M per month, dipping to a low near $882K around June 2020.
